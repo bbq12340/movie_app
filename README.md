@@ -6,7 +6,7 @@ React JS Fundamentals practice
 
 1. jsx & components & props
     - jsx => basic document obj in react
-    - function components <- props as arg.
+    - function components <- props as arg. 
         - props.name / props.image ... can be passed
     - class componenets => class - extends ReactComponent
 
@@ -32,4 +32,10 @@ React JS Fundamentals practice
     
     - Unmount: This method is called when a component is being removed from the DOM
         - <componentWillUnmount()>
+
+# making movie app
+
+1. fetching api data: <axios>
+
+2. wait for function: <async> - <await>
 
