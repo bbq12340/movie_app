@@ -39,7 +39,9 @@ React JS Fundamentals practice
 
 2. wait for function: [async] - [await]
 
-3. deploying -> package.json
+3. routing: [react-router-dom]
+
+4. deploying -> package.json
     - setup homepage
     - npm run build
     - setup deploy & predeploy
