@@ -37,7 +37,7 @@ React JS Fundamentals practice
 
 1. fetching api data: [axios]
 
-2. wait for function: [async] - [await]
+2. wait for inner function: [async] - [await]
 
 3. routing: [react-router-dom]
 
